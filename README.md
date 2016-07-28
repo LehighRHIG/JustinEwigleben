@@ -1,3 +1,3 @@
-# PythiaTree
+# Justin
 
-Initial setup after compiling sucessfully for the first time. Made 5/19/2016 - JE
+Personal repo for things I'm working on.
